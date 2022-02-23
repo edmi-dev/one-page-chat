@@ -1,5 +1,8 @@
 # Compiled class file
 *.class
+target
+target/*.java
+target/*.class
 
 # Log file
 *.log
