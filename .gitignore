@@ -3,6 +3,7 @@
 target
 target/*.java
 target/*.class
+.idea
 
 # Log file
 *.log
